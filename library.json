@@ -1,0 +1,38 @@
+{
+  "title": "H5PEditor.IconSelector",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 0,
+  "machineName": "H5PEditor.IconSelector",
+  "author": "Luke Muller",
+  "preloadedJs": [
+    {
+      "path": "scripts/icons-list.js"
+    },
+    {
+      "path": "scripts/jquery.fonticonpicker.js"
+    },
+    {
+      "path": "scripts/icon-selector.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "styles/jquery.fonticonpicker.css"
+    },
+    {
+      "path": "styles/jquery.fonticonpicker.grey.css"
+    },
+    {
+      "path": "styles/icon-selector.css"
+    }
+  ],
+    "preloadedDependencies": [
+    {
+      "machineName": "FontAwesome",
+      "majorVersion": 4,
+      "minorVersion": 5
+    }
+  ]
+}

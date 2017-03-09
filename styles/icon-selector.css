@@ -1,0 +1,11 @@
+.fa {
+	display: inline-block;
+	font: normal normal normal 14px/1 H5PFontAwesome4;
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.h5p-icon-selector .h5peditor-field-description {
+	display: block;
+}
